@@ -10,7 +10,7 @@ inzva AI Projects #3 - Training A goal oriented chatbot agent using reinforcemen
 
 # Introduction
 
-Chat bots became a popular field of research due to it’s room for improvement and practical implications. Hence, under the framework of [Inzva AI Projects](https://inzva.com/ai/projectgroups/2019/ai-project-group-3), we would like to make our humble contribution to the field by training a goal-oriented chat bot. Below you can find what we have done. Special thanks to Inzva team to create a space for everyone who would like to make a contribution!
+Chatbots became a popular field of research due to it’s room for improvement and practical implications. Hence, under the framework of [Inzva AI Projects](https://inzva.com/ai/projectgroups/2019/ai-project-group-3), we would like to make our humble contribution to the field by training a goal-oriented chatbot. Below you can find what we have done. Special thanks to Inzva team to create a space for everyone who would like to make a contribution!
 
 # Literature Review
 
