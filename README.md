@@ -4,7 +4,7 @@ inzva AI Projects #3 - Training A goal oriented chatbot agent using reinforcemen
 # Team Members
 
 ### [Semih Yağcıoğlu](https://github.com/semihyagcioglu)
-### [Mustafa Sercan Amaç]
+### [Mustafa Sercan Amaç](http://github.com/sercanamac)
 ### [Cemil Güney](https://github.com/mcemilg)
 ### [Efehan Danışman](https://github.com/efehandanisman)
 
